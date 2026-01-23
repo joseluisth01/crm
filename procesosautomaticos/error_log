@@ -1,0 +1,5 @@
+[11-Nov-2025 08:19:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gesttictaccom_bbddttgestion.crm_tasks' doesn't exist in /home/gesttictaccom/public_html/procesosautomaticos/automatico-estados-tareas.php:12
+Stack trace:
+#0 /home/gesttictaccom/public_html/procesosautomaticos/automatico-estados-tareas.php(12): mysqli->query()
+#1 {main}
+  thrown in /home/gesttictaccom/public_html/procesosautomaticos/automatico-estados-tareas.php on line 12
